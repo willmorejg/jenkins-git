@@ -5,4 +5,4 @@ And it should be triggered by any change
 
 # Change
 
-Change is good!
+Change is GOOD!
